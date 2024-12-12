@@ -15,12 +15,12 @@ A Python script for cracking hashed passwords using a wordlist. The script suppo
 Clone the repository and install the requirements:
    ```bash
    git clone https://github.com/Z3R0-sec/zs_hashcracker.git
-   cd zs_hashcracker-master
+   cd zs_hashcracker
    pip install -r requirements.txt
    ```
 ***OR***
 
-Download the file, install requirements, and provide a wordlist.
+Copy and paste the script, install dependencies, and make a wordlist.
 
 ## Usage
 
