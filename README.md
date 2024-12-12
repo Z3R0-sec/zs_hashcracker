@@ -3,7 +3,7 @@
 A Python script for cracking hashed passwords using a wordlist. The script supports multiple hash types and support for wordlists.
 
 ## Features
-- Supports multiple hash algorithms (MD5, SHA-1, SHA-256,)
+- Supports multiple hash algorithms (MD5, SHA-1, SHA-256)
 - Logs attempts in real-time.
 - Option to specify your own wordlist.
 
