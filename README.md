@@ -31,5 +31,10 @@ python3 zs_hashcracker.py <hash_type> <hash_value> [wordlist]
 - `<hash_value>`: The hash you are attempting to crack.  
 - `[wordlist]`: (Optional) The path to your wordlist file. Defaults to `passwords.txt`
 
+## Example Usage
+Below is a screenshot of the script in action:  
+
+![Screenshot](Demo/demo-pic.png)
+
 ### Disclaimer
 This script is for educational purposes only. Use responsibly and ensure you have authorization before attempting to crack passwords.
